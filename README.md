@@ -1,5 +1,6 @@
 # NextJS Tutorial
 
+
 # Assignment Brief: Understanding React & Introduction to NextJS
 
 ## Instructor Video Overview - [Here](https://youtu.be/Jg2v8MsqjOc)
