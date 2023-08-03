@@ -22,8 +22,8 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, my name is Fahad Ali. I am a student and a software engineer
-           at NJIT. I want to have a fulfilling career. Thank you.
+        <p>Hello, my name is Vishal Ravikumar  I am a student and a software engineer
+           at NJIT. I want to have a fulfilling career. Thank you. 
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
